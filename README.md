@@ -70,4 +70,4 @@ The crop calculator will ask for your farming level and profession on first run.
 - Farm layout designer is text-based for now. I know it's ugly. A proper GUI is on the maybe-someday list.
 - Schedule optimizer assumes you have the horse by default. If you don't, travel times will be off.
 
-> This project is not affiliated with ConcernedApe or Stardew Valley. Just a fan tool — use it however you like, but don't blame me if you spend even more time optimizing instead of actually playing.
+> This project is not affiliated with ConcernedApe or Stardew Valley. Just a fan tool — use it however you like, but don't blame me if you spend even more time optimizing instead of actually playing. 
